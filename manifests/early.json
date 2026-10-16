@@ -1,8 +1,8 @@
 {
   "channel": "early",
-  "commit": "e2c4f7d25c8a653e95b28ef847011395066e9cea",
+  "commit": "f9f4d964d55a52358ca5d57046280f6c3f7e1524",
   "repository": "desalvo/mta-audio-editor",
-  "run_id": 38839769510,
+  "run_id": 38890016939,
   "schema": 1,
-  "sha256": "6db8a2eddf014970fe08eda1eeb8466fb4750ab1119bace14c0107c93ffa7636"
+  "sha256": "a7f55c81b773c7413b94f1856605530e015326bb06e4be2646c8c30c3b020535"
 }
